@@ -1,0 +1,14 @@
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.exe
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.deps.json
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.runtimeconfig.json
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.dll
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.pdb
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.AssemblyInfoInputs.cache
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.AssemblyInfo.cs
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.dll
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\refint\ConsoleApp8.dll
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.pdb
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.genruntimeconfig.cache
+D:\універ\2 куркурс\kross_platform\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ref\ConsoleApp8.dll
