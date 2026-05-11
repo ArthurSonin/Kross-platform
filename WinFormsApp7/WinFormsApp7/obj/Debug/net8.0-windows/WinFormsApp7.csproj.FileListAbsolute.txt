@@ -1,0 +1,32 @@
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.exe
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.deps.json
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.runtimeconfig.json
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.dll
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.pdb
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form1.resources
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfo.cs
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.dll
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\refint\WinFormsApp7.dll
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.pdb
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.genruntimeconfig.cache
+D:\універ\2 куркурс\kross_platform\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\ref\WinFormsApp7.dll
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.exe
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.deps.json
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.runtimeconfig.json
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.dll
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.pdb
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form1.resources
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfo.cs
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.dll
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\refint\WinFormsApp7.dll
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.pdb
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.genruntimeconfig.cache
+D:\універ\2 куркурс\kross_platform -\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\ref\WinFormsApp7.dll
